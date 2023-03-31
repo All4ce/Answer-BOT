@@ -1,4 +1,5 @@
 # Answer-BOT
+Um projeto pessoal dedicado a amigos, colegas, e tambem entusiastas de tecnologia.
 Um BOT criado para interagir com a API do Discord e a API da OPENAI.
 
 Devera editar o arquivo .env para seu TOKEN do Discord e Token da OPENAI.
