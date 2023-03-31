@@ -8,3 +8,13 @@ O aplicativo eh publico para voce poder melhorar usando Application Commands do 
 Criei para meus amigos terem acesso ao chatgpt de forma bem pratica e divertida!
 
 Para usar o bot utilize o prefixo <!r> seguido da sua mensagem. 
+
+ENGLISH VERSION: 
+
+A BOT created to interact with the Discord API and the OPENAI API.
+
+You must edit the .env file for your Discord TOKEN and OPENAI Token. After that, just run the file <run.py>.
+
+The app is public so you can improve using Discord's Application Commands. I created it for my friends to have access to chatgpt in a very practical and fun way!
+
+To use the bot use the prefix <!r> followed by your message.
